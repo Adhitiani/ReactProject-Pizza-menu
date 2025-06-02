@@ -70,8 +70,8 @@ function Menu() {
     <main className="menu">
       <h2>Our Menu</h2>
       <p>
-        Our pizza is made using our great-great grandmother secret recipe from
-        Sicily that has been around form 1000 years ago
+        Our pizza is made from our great-great-grandma’s secret Naples
+        recipe—it’s been in the family for over 1000 years!
       </p>
       <ul className="pizzas">
         {pizzaData.map((pizza) => {
